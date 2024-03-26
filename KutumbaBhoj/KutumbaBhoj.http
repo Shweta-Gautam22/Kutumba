@@ -1,0 +1,6 @@
+@KutumbaBhoj_HostAddress = http://localhost:5123
+
+GET {{KutumbaBhoj_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

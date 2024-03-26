@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\KutumbaBhoj.Application\bin\Debug\net8.0\KutumbaBhoj.Application.deps.json
+C:\Users\Asus\source\repos\KutumbaBhoj.Application\bin\Debug\net8.0\KutumbaBhoj.Application.dll
+C:\Users\Asus\source\repos\KutumbaBhoj.Application\bin\Debug\net8.0\KutumbaBhoj.Application.pdb
+C:\Users\Asus\source\repos\KutumbaBhoj.Application\bin\Debug\net8.0\KutumbaBhoj.Domain.dll
+C:\Users\Asus\source\repos\KutumbaBhoj.Application\bin\Debug\net8.0\KutumbaBhoj.Domain.pdb
+C:\Users\Asus\source\repos\KutumbaBhoj.Application\obj\Debug\net8.0\KutumbaBhoj.Application.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\KutumbaBhoj.Application\obj\Debug\net8.0\KutumbaBhoj.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\KutumbaBhoj.Application\obj\Debug\net8.0\KutumbaBhoj.Application.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\KutumbaBhoj.Application\obj\Debug\net8.0\KutumbaBhoj.Application.AssemblyInfo.cs
+C:\Users\Asus\source\repos\KutumbaBhoj.Application\obj\Debug\net8.0\KutumbaBhoj.Application.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\KutumbaBhoj.Application\obj\Debug\net8.0\KutumbaBhoj.Application.csproj.CopyComplete
+C:\Users\Asus\source\repos\KutumbaBhoj.Application\obj\Debug\net8.0\KutumbaBhoj.Application.dll
+C:\Users\Asus\source\repos\KutumbaBhoj.Application\obj\Debug\net8.0\refint\KutumbaBhoj.Application.dll
+C:\Users\Asus\source\repos\KutumbaBhoj.Application\obj\Debug\net8.0\KutumbaBhoj.Application.pdb
+C:\Users\Asus\source\repos\KutumbaBhoj.Application\obj\Debug\net8.0\ref\KutumbaBhoj.Application.dll
